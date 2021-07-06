@@ -1,4 +1,7 @@
 # Projeto-em-Python
-Projeto pessoal usando a linguagem Python.
 
-Projeto em andamento.
+Personal Project using Python programing language
+
+Type of project: CRUD with Python, Django, JavaScript, HTML
+
+Status: Unfinished
