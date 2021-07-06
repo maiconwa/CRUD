@@ -16,7 +16,7 @@ First of all somethings are needed to run this little project:
 Step 1: Download and configure of pytrhon.
   
  Step 1.1: Go to Python.org to download Python:
-    [Python.org - Dounload Python](https://www.python.org/downloads/)
+    [Python.org - Download Python](https://www.python.org/downloads/)
     
  Step 1.1: To see or manage the data base file, download DB Browser for SQLite:
     [sqlitebrowser.org - Download](https://sqlitebrowser.org/dl/)
