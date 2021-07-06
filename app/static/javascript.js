@@ -5,7 +5,7 @@
     if(doc.querySelector('.btnDel')){
         let btnDel = doc.querySelectorAll('.btnDel');
         for(let i=0; i < btnDel.length; i++){
-            btnDel[i].addEventlistener('click', function(event)){
+            btnDel[i].addEventListener('click', function(event){
                 if(confirm('Deseja mesmo apagar este dado?')){
                     return true;
                 }else{
