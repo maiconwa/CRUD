@@ -56,8 +56,10 @@ Step 5: Runing the server.
   
 Step 6: Usem the CRUD app.
   
-   Step 6.1: In yoput browser type the following address http://localhost:8000/ and press enter;
-  
+   Step 6.1: In your browser type the following address http://localhost:8000/ and press enter;
+ 
+Step 7: Stopping the server.
+    Step 7.1: To stop the server, in cmd windown press ctrl+c;
 
     
      
