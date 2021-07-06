@@ -4,4 +4,4 @@ Personal Project using Python programing language
 
 Type of project: CRUD with Python, Django, JavaScript, HTML
 
-Status: Unfinished
+Status: I'm working on it
