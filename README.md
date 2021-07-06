@@ -43,8 +43,11 @@ Step 3: In windowns start the venv diretory:
 Step 4: Go to python root folder.
 
   Step 4.1: in " (venv) c:\Python\venv> " use the following command to go back to Python root folder:
+    
     Step 4.1.1: Use "cd.." and press enter
+    
     Step 4.1.1: Use "cd.." and press enter
+    
     Note: you should remain in " (venv) c:\Python\venv> " in order to run the server.
 
 Step 5: Runing the server.
