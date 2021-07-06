@@ -14,4 +14,21 @@
             });
         }
     }
+
+    //Ajax do form
+    if(doc.querySelector('#form')){
+        let form=doc.querySelector('#form');
+        function sendForm(event)
+        {
+            event.preventDefault();
+            let data = new FormData(form);
+            let ajax = new XMLHttpRequest();
+            let token = doc.querySelectorAll('input');
+            ajax.open('POST', form.action);
+            ajax.setRequestHeader('X-CSRF-TOKEN',token);
+            ajax.send(data);
+        }
+        form.addEventListener('submit',sendForm, false);
+    }
+
 })(window, document);
