@@ -25,7 +25,7 @@ Step 1: Download and configure of pytrhon.
 
 Step 2: Save the folder with the project files in the root of your C disc.
 
-Note: You can save the folder in any location you want, this recocomendation is to facilitate the process due to the following steps were writen. If you save it anywhere else make sure you know how to navigate in windows cmd, because you need it to start Django server.
+Note: You can save the folder in any location you want, this recocomendation is to facilitate the process due following steps were writen. If you save it anywhere else make sure you know how to navigate in windows cmd, because you need it to start Django server.
 
 Step 3: In windowns start the venv diretory:
   
