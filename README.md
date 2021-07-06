@@ -60,7 +60,7 @@ Step 6: Usem the CRUD app.
  
 Step 7: Stopping the server.
     
-    Step 7.1: To stop the server, in cmd windown press ctrl+c;
+   Step 7.1: To stop the server, in cmd windown press ctrl+c;
 
     
      
