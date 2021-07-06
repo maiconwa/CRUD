@@ -1,4 +1,4 @@
-# Projeto-em-Python
+# CRUD in Python with Django
 
 Personal Project using Python programing language
 
