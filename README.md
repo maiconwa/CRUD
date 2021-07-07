@@ -13,7 +13,7 @@ First of all somethings are needed to run this little project:
 
 1 - Configuration:
 
-Step 1: Download and configure of pytrhon.
+Step 1: Download and configure of python.
   
  Step 1.1: Go to Python.org to download Python:
     [Python.org - Download Python](https://www.python.org/downloads/)
