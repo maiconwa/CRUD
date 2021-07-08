@@ -9,7 +9,7 @@ Status: Ongoing project
 
 A Guide Step by Step:
 
-First of all somethings are needed to run this little project:
+Here are the some steps that are needed to run this project:
 
 1 - Configuration:
 
