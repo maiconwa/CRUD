@@ -1,4 +1,4 @@
-# CRUD in Python with Django
+# CRUD (Create, Read, Update, Delete)
 
 Personal Project using Python programing language
 
