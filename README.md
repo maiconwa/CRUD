@@ -81,5 +81,5 @@ Step 6: Stopping the server.
    Step 6.1: To stop the server, in cmd windown or linux terminal press ctrl+c.
 </p>
 <br>
-    
+<img src=https://github.com/maiconwa/CreateReadUpdateDelete-CRUD/blob/main/tutorial/stop.PNG?raw=true>
      
