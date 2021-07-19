@@ -77,7 +77,7 @@ Step 5: Using CRUD app.
 <p>
 Step 6: Stopping the server.
     
-   Step 6.1: To stop the server, in cmd windown or linux terminal pressing ctrl+c.
+   Step 6.1: To stop the server, in cmd windown or linux terminal press ctrl+c.
 </p>
 <br>
     
