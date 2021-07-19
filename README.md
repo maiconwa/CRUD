@@ -9,7 +9,7 @@ Status: Ongoing project
 
 A Guide Step by Step:
 
-Here are the some steps that are needed to run this project:
+Here are some steps that are needed to run this project:
 
 <p>
 <br>
