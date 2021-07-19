@@ -32,9 +32,10 @@ Step 1: Download and configure of python.
  <p>
  2 - Runing the app:
 
-Step 2: Save the folder with the project files in the root of your C disc.
+Step 2: Save the folder with the project files in any location.
+<br>
+Note: Tou need to know how to navigate on linux terminal or windows CMD in order to locate and start the CRUD. 
 
-Note: You can save the folder in any location you want, this recocomendation is to facilitate the process due following steps. If you save it anywhere else make sure you know how to navigate in windows cmd, because you need it to start Django server.
 </p>
 <br>
 <p>
