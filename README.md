@@ -15,7 +15,7 @@ Here are some steps that are needed to run this project:
 <br>
 1 - Configuration:
 
-Step 1: Download and configure of python.
+Step 1: Download and configure python.
   
  Step 1.1: Go to Python.org to download Python:
     [Python.org - Download Python](https://www.python.org/downloads/)
