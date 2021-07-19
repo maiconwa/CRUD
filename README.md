@@ -40,52 +40,44 @@ Note: You can save the folder in any location you want, this recocomendation is 
 <p>
 Step 3: In windowns start the venv diretory:
   
-   Step 3.1: Open the cmd in windowns;
+Step 3.1: Open the cmd in windowns;
    
-   Step 3.2: Use "cd c:/"  to go to root in disc C;
+Step 3.2: Use "cd c:/"  to go to root in disc C;
    
-   Step 3.3: Use the command "dir" and press enter to see yout folders;
+Step 3.3: Use the command "dir" and press enter to see yout folders;
    
-   Step 3.4: Use the command "cd Python" to enter in the Python folder;
+Step 3.4: Use the command "cd Python" to enter in the Python folder;
    
-   Step 3.5: Use the command "cd venv/Scripts" and press enter;
+Step 3.5: Use the command "cd venv/Scripts" and press enter;
    
-   Step 3.6: Use the command "activate" and press enter;
+Step 3.6: Use the command "activate" and press enter; 
 </p>
-<br>
-<p>
-Step 4: Go to python root folder.
 
-  Step 4.1: in " (venv) c:\Python\venv> " use the following command to go back to Python root folder:
-    
-   Step 4.1.1: Use "cd.." and press enter
-    
-   Step 4.1.1: Use "cd.." and press enter
-    
-   Note: you must remain inside project folder in order do run the surver.
-</p>
 <br>
+<img src=https://github.com/maiconwa/CreateReadUpdateDelete-CRUD/blob/main/tutorial/activate.PNG?raw=true>
 <p>
-Step 5: Runing the server.
+Step 4: Runing the server.
   
-   Step 5.1: Use the following command to start the Django server, while inside project folder location, use the following command on windows cmd or linus terminal:
+   Step 4.1: Use the following command to start the Django server, while inside project folder location, use the following command on windows cmd or linus terminal:
    
         python manage.py runserver
 </p>
 <br>
+<img src=https://github.com/maiconwa/CreateReadUpdateDelete-CRUD/blob/main/tutorial/runserver.PNG?raw=true>
 <p>
-Step 6: Using CRUD app.
+Step 5: Using CRUD app.
   
-   Step 6.1: In your browser type the following address and press enter:
+   Step 5.1: In your browser type the following address and press enter:
         
         http://localhost:8000/
 
 </p>
 <br>
+<img src=https://github.com/maiconwa/CreateReadUpdateDelete-CRUD/blob/main/tutorial/crud.PNG?raw=true>
 <p>
-Step 7: Stopping the server.
+Step 6: Stopping the server.
     
-   Step 7.1: To stop the server, in cmd windown or linux terminal pressing ctrl+c.
+   Step 6.1: To stop the server, in cmd windown or linux terminal pressing ctrl+c.
 </p>
 <br>
     
