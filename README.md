@@ -21,6 +21,11 @@ Step 1: Download and configure of python.
  Step 1.1: To see or manage the data base file, download DB Browser for SQLite:
     [sqlitebrowser.org - Download](https://sqlitebrowser.org/dl/)
  
+ Step 1.2: Install Django framework via pip. Open windows cmd or linux terminal and type the following command:
+    
+        pip install Django
+ 
+ 
  2 - Runing the app:
 
 Step 2: Save the folder with the project files in the root of your C disc.
@@ -49,19 +54,23 @@ Step 4: Go to python root folder.
     
    Step 4.1.1: Use "cd.." and press enter
     
-   Note: you should remain in " (venv) c:\Python\venv> " in order to run the server.
+   Note: you must remain inside project folder in order do run the surver.
 
 Step 5: Runing the server.
   
-   Step 5.1: Use the following command to start the Django server, while in (venv) c:\Python\venv> location, use "python manage.py runserver"
+   Step 5.1: Use the following command to start the Django server, while inside project folder location, use the following command on windows cmd or linus terminal:
+   
+        python manage.py runserver
   
-Step 6: Usem the CRUD app.
+Step 6: Using CRUD app.
   
-   Step 6.1: In your browser type the following address http://localhost:8000/ and press enter;
+   Step 6.1: In your browser type the following address and press enter:
+        
+        http://localhost:8000/
  
 Step 7: Stopping the server.
     
-   Step 7.1: To stop the server, in cmd windown press ctrl+c;
+   Step 7.1: To stop the server, in cmd windown or linux terminal pressing ctrl+c.
 
     
      
