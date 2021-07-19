@@ -45,13 +45,13 @@ Step 3.1: Open the cmd in windowns;
    
 Step 3.2: Use "cd c:/"  to go to root in disc C;
    
-Step 3.3: Use the command "dir" and press enter to see yout folders;
+Step 3.3: Use command "dir" and press enter to see yout folders;
    
-Step 3.4: Use the command cd and insert the path to project folder;
+Step 3.4: Use command cd and insert the path to project folder;
    
-Step 3.5: Use the command "cd venv/Scripts" and press enter;
+Step 3.5: Use command "cd venv/Scripts" and press enter;
    
-Step 3.6: Use the command "activate" and press enter; 
+Step 3.6: Use command "activate" and press enter; 
 </p>
 
 <br>
