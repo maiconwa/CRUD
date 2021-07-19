@@ -32,9 +32,9 @@ Step 1: Download and configure python.
  <p>
  2 - Runing the app:
 
-Step 2: Save the folder with the project files in any location.
+Step 2: Save folder with project files in any location.
 <br>
-Note: Tou need to know how to navigate on linux terminal or windows CMD in order to locate and start the CRUD. 
+Note: you need to know how to navigate on linux terminal or windows CMD in order to locate and start the CRUD. 
 
 </p>
 <br>
