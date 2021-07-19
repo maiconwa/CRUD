@@ -59,7 +59,7 @@ Step 3.6: Use the command "activate" and press enter;
 <p>
 Step 4: Runing the server.
   
-   Step 4.1: Go to project folder again and use the following command to start the Django server, while inside project folder location, use the following command on windows cmd or linus terminal:
+   Step 4.1: Go to project folder again to start the Django server, while inside project folder location, use the following command on windows cmd or linux terminal:
    
         python manage.py runserver
 </p>
