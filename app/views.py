@@ -1,9 +1,8 @@
 from django.shortcuts import render, redirect
 from app.forms import CarrosForm
 from app.models import Carros
-from django.core.paginator import Paginator
 
-# Create your views here.
+# Create your views here.s
 def home(request):
     data = {}
     search = request.GET.get('search')
