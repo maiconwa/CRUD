@@ -42,6 +42,13 @@ Linux and MacOS venv activation
 Install requirements.txt with:
 
     pip install -r .\requirements.txt
+
+Copy envexample to a .env file.
+
+
+Start the server with:
+
+    python .\manage.py runserver 
     
  </p>
  <br>
