@@ -43,10 +43,6 @@ Install requirements.txt with:
 
     pip install -r .\requirements.txt
     
- Step 1.2: Install Django framework via pip. Open windows cmd or linux terminal and type the following command:
-    
-        pip install Django
- 
  </p>
  <br>
  <p>
